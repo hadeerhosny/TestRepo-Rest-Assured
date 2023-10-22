@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "argparse": "^2.0.1",
+    "balanced-match": "^3.0.1",
+    "brace-expansion": "^3.0.0",
+    "commander": "^11.1.0",
+    "concat-map": "^0.0.2",
+    "package": "^1.0.1",
+    "package-lock": "^1.0.5",
+    "pom": "^1.0.3",
+    "start": "^5.1.0"
+  }
+}
